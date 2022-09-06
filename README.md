@@ -1,4 +1,4 @@
-<img alt="Night Coding" src="./assets/Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm Ibiach</h2>
+<img alt="Night Coding" src="./assets/Hand Wave.gif" width='40' align="left"/><h2>Hey there! I'm Kirill</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Kirill -->
 
