@@ -9,7 +9,7 @@
 🌱 &nbsp;I practice beautiful and readable code writing, together with prettier, eslint and styleline.\
 ✍️ &nbsp;I write a lot of mini projects where I work out new programming technologies.\
 💬 &nbsp;I try to speak English at the B1/B2 level.\
-✉️ &nbsp;You can shoot me an email at kgelazhev@gmail.com! I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at kgelazhev@gmail.com! I'll try to respond you as soon as I can.
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
